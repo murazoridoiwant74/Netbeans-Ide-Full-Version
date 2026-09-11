@@ -244,3 +244,6 @@ This repository serves as the official landing page for NetBeans IDE. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of NetBeans IDE today!**
+
+---
+**Last updated:** 2026-09-11 20:19:25 UTC
