@@ -246,4 +246,4 @@ This repository serves as the official landing page for NetBeans IDE. The softwa
 **Get the most recent version of NetBeans IDE today!**
 
 ---
-**Last updated:** 2026-09-24 19:42:56 UTC
+**Last updated:** 2026-09-24 22:55:27 UTC
